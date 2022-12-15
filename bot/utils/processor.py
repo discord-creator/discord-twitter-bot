@@ -7,7 +7,7 @@ from datetime import datetime
 
 
 COLORS = [
-    0x1DA1F2
+    0x1DA1F2,
 ]
 WH_REGEX = r"discord(app)?\.com\/api\/webhooks\/(?P<id>\d+)\/(?P<token>.+)"
 
